@@ -1,0 +1,13 @@
+NAME : gr24.334.tour
+COMMENT : Length = 334
+COMMENT : Found by LKH [Keld Helsgaun] Wed May 29 17:05:38 2013
+TYPE : TOUR
+DIMENSION : 5
+TOUR_SECTION
+24
+5
+20
+14
+10
+-1
+EOF

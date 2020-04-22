@@ -1,0 +1,16 @@
+NAME : 8ftv38.511.tour
+COMMENT : Length = 511
+COMMENT : Found by LKH [Keld Helsgaun] Thu Jun  6 00:31:05 2013
+TYPE : TOUR
+DIMENSION : 8
+TOUR_SECTION
+7
+36
+33
+34
+30
+28
+21
+12
+-1
+EOF

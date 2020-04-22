@@ -1,0 +1,12 @@
+NAME : 4gr17.1309.tour
+COMMENT : Length = 1309
+COMMENT : Found by LKH [Keld Helsgaun] Wed Jun  5 21:03:30 2013
+TYPE : TOUR
+DIMENSION : 4
+TOUR_SECTION
+2
+9
+6
+11
+-1
+EOF

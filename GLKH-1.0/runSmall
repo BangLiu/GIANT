@@ -1,0 +1,54 @@
+#!/bin/bash
+# Usage: ./runSmall
+
+run="./runGLKH_EXP"
+# run="./GLKH_CHECK"
+
+$run 3burma14 1805
+$run 4br17 31
+$run 4gr17 1309
+$run 5gr21 1740
+$run 5gr24 334
+$run 5ulysses22 5307
+$run 6bayg29 707
+$run 6bays29 822
+$run 6fri26 481
+$run 7ftv33 476
+$run 8ftv35 525
+$run 8ftv38 511
+$run 9dantzig42 417
+$run 10att48 5394
+$run 10gr48 1834
+$run 10hk48 6386
+$run 11berlin52 4040
+$run 11eil51 174
+$run 12brazil58 15332
+$run 14st70 316
+$run 16eil76 209
+$run 16pr76 64925
+$run 20gr96 29440
+$run 20rat99 497
+$run 20kroA100 9711
+$run 20kroB100 10328
+$run 20kroC100 9554
+$run 20kroD100 9450
+$run 20kroE100 9523
+$run 20rd100 3650
+$run 21eil101 249
+$run 21lin105 8213
+$run 22pr107 27898
+$run 24gr120 2769
+$run 25pr124 36605
+$run 26bier127 72418
+$run 26ch130 2828
+$run 28gr137 36417
+$run 28pr136 42570
+$run 29pr144 45886
+$run 30ch150 2750
+$run 30kroA150 11018
+$run 30kroB150 12196
+$run 31pr152 51576
+$run 32u159 22664
+$run 35si175 5564
+$run 36brg180 4420
+$run 39rat195 854

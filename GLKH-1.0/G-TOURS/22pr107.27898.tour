@@ -1,0 +1,30 @@
+NAME : 22pr107.27898.tour
+COMMENT : Length = 27898
+COMMENT : Found by LKH [Keld Helsgaun] Wed Jun  5 21:39:36 2013
+TYPE : TOUR
+DIMENSION : 22
+TOUR_SECTION
+3
+5
+63
+70
+71
+77
+82
+87
+91
+94
+99
+104
+50
+48
+43
+42
+37
+33
+25
+21
+15
+8
+-1
+EOF

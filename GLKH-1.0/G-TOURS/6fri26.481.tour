@@ -1,0 +1,14 @@
+NAME : fri26.481.tour
+COMMENT : Length = 481
+COMMENT : Found by LKH [Keld Helsgaun] Wed May 29 17:05:38 2013
+TYPE : TOUR
+DIMENSION : 6
+TOUR_SECTION
+1
+3
+14
+22
+23
+25
+-1
+EOF

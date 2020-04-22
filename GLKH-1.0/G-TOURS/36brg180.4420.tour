@@ -1,0 +1,44 @@
+NAME : brg180.4420.tour
+COMMENT : Length = 4420
+COMMENT : Found by LKH [Keld Helsgaun] Wed May 29 17:05:42 2013
+TYPE : TOUR
+DIMENSION : 36
+TOUR_SECTION
+1
+24
+23
+3
+50
+49
+41
+42
+67
+30
+29
+70
+58
+57
+64
+53
+54
+62
+61
+46
+45
+68
+33
+34
+7
+26
+25
+5
+20
+19
+11
+16
+15
+9
+38
+37
+-1
+EOF

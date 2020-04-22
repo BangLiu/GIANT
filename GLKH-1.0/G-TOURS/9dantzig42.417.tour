@@ -1,0 +1,17 @@
+NAME : dantzig42.417.tour
+COMMENT : Length = 417
+COMMENT : Found by LKH [Keld Helsgaun] Wed May 29 17:05:38 2013
+TYPE : TOUR
+DIMENSION : 9
+TOUR_SECTION
+41
+3
+10
+12
+14
+17
+21
+28
+34
+-1
+EOF

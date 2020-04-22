@@ -1,0 +1,28 @@
+NAME : rd100.3650.tour
+COMMENT : Length = 3650
+COMMENT : Found by LKH [Keld Helsgaun] Wed May 29 17:05:39 2013
+TYPE : TOUR
+DIMENSION : 20
+TOUR_SECTION
+15
+8
+90
+64
+5
+42
+40
+39
+100
+45
+23
+84
+95
+6
+10
+92
+17
+74
+21
+86
+-1
+EOF

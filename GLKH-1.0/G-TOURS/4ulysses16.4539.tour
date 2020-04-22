@@ -1,0 +1,12 @@
+NAME : ulysses16.tsp.4539.tour
+COMMENT : Length = 4539
+COMMENT : Found by LKH [Keld Helsgaun] Wed May 29 17:05:38 2013
+TYPE : TOUR
+DIMENSION : 4
+TOUR_SECTION
+16
+11
+6
+14
+-1
+EOF

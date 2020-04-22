@@ -1,0 +1,13 @@
+NAME : gr21.1740.tour
+COMMENT : Length = 1740
+COMMENT : Found by LKH [Keld Helsgaun] Wed May 29 17:05:38 2013
+TYPE : TOUR
+DIMENSION : 5
+TOUR_SECTION
+6
+15
+14
+3
+16
+-1
+EOF

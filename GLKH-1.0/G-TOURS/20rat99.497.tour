@@ -1,0 +1,28 @@
+NAME : rat99.497.tour
+COMMENT : Length = 497
+COMMENT : Found by LKH [Keld Helsgaun] Wed May 29 17:05:39 2013
+TYPE : TOUR
+DIMENSION : 20
+TOUR_SECTION
+2
+5
+7
+17
+26
+35
+34
+53
+71
+80
+89
+87
+95
+83
+65
+56
+57
+39
+30
+11
+-1
+EOF

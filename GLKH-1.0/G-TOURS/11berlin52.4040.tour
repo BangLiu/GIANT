@@ -1,0 +1,19 @@
+NAME : berlin52.4040.tour
+COMMENT : Length = 4040
+COMMENT : Found by LKH [Keld Helsgaun] Wed May 29 17:05:38 2013
+TYPE : TOUR
+DIMENSION : 11
+TOUR_SECTION
+22
+31
+21
+42
+47
+13
+27
+51
+33
+19
+45
+-1
+EOF

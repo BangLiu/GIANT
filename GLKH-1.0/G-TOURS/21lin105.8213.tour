@@ -1,0 +1,29 @@
+NAME : lin105.8213.tour
+COMMENT : Length = 8213
+COMMENT : Found by LKH [Keld Helsgaun] Wed May 29 17:05:39 2013
+TYPE : TOUR
+DIMENSION : 21
+TOUR_SECTION
+7
+8
+5
+14
+35
+39
+61
+88
+95
+93
+91
+79
+73
+62
+55
+50
+44
+36
+27
+23
+20
+-1
+EOF

@@ -1,0 +1,27 @@
+# Usage: ./runGLKH problem_name [ optimum ]
+#!/bin/bash
+
+par=TMP/$1.pid$$.par
+
+echo "PROBLEM_FILE = GTSPLIB/$1.gtsp" > $par
+echo "ASCENT_CANDIDATES = 500" >> $par
+echo "INITIAL_PERIOD = 1000" >> $par
+echo "MAX_CANDIDATES = 30" >> $par
+echo "MAX_TRIALS = 1000" >> $par
+if [ -n "$2" ]; then
+    echo "OPTIMUM = $2" >> $par
+fi
+echo "OUTPUT_TOUR_FILE = $1.$.tour" >> $par
+echo "PI_FILE = PI_FILES/$1.pi" >> $par
+echo "POPULATION_SIZE = 1" >> $par
+echo "PRECISION = 10" >> $par
+echo "RUNS = 1" >> $par
+echo "SEED = 1" >> $par
+echo "TRACE_LEVEL = 1" >> $par
+
+mkdir -p PI_FILES
+mkdir -p TMP
+
+./GLKH $par $3
+
+/bin/rm -f $par

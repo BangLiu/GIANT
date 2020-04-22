@@ -1,0 +1,13 @@
+NAME : ulysses22.tsp.5307.tour
+COMMENT : Length = 5307
+COMMENT : Found by LKH [Keld Helsgaun] Wed May 29 17:05:38 2013
+TYPE : TOUR
+DIMENSION : 5
+TOUR_SECTION
+21
+10
+11
+5
+22
+-1
+EOF

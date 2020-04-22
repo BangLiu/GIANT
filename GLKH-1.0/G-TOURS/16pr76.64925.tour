@@ -1,0 +1,24 @@
+NAME : pr76.64925.tour
+COMMENT : Length = 64925
+COMMENT : Found by LKH [Keld Helsgaun] Wed May 29 17:05:38 2013
+TYPE : TOUR
+DIMENSION : 16
+TOUR_SECTION
+1
+24
+45
+69
+70
+65
+71
+57
+58
+34
+32
+11
+13
+74
+8
+75
+-1
+EOF

@@ -1,0 +1,12 @@
+NAME : br17.31.tour
+COMMENT : Length = 31
+COMMENT : Found by LKH [Keld Helsgaun] Wed May 29 17:05:38 2013
+TYPE : TOUR
+DIMENSION : 4
+TOUR_SECTION
+1
+15
+4
+17
+-1
+EOF

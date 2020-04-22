@@ -1,0 +1,28 @@
+NAME : gr96.29440.tour
+COMMENT : Length = 29440
+COMMENT : Found by LKH [Keld Helsgaun] Wed May 29 17:05:38 2013
+TYPE : TOUR
+DIMENSION : 20
+TOUR_SECTION
+29
+2
+11
+16
+20
+21
+25
+63
+66
+94
+95
+92
+78
+74
+70
+81
+80
+79
+39
+35
+-1
+EOF
